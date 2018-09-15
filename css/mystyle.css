@@ -1,0 +1,45 @@
+ h1{
+	 color:darkgrey;
+	 text-align:center;
+	 font-family:ImpactImpact;	
+     
+	 font-size:50px;
+	 text-shadow: 3px 2px grey;
+	 
+	 
+	 
+ }
+ 
+ body {
+    background-image: url("https://www.jotform.com/blog/wp-content/uploads/2018/08/to-do-list-compressor.jpg");
+	    background-repeat: no-repeat;
+
+
+}
+
+.outer {
+    background-color: lightgrey;
+    width: 1000px;
+	height:500px;
+    border: 50px solid SlateGrey ;
+    padding: 10px;
+    margin: 25px;
+	position: relative;
+    left: 140px;
+}
+
+.inner {
+    background-color: white;
+    width: 500px;
+	
+    
+    padding: 10px;
+    margin: 25px;
+	position: relative;
+    left: 140px;
+}
+ol {
+    background: white;
+    padding: 20px;
+}
+
